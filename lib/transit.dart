@@ -3,8 +3,7 @@ library transit;
 import "dart:collection";
 import "dart:convert";
 import "dart:typed_data";
-import "package:msgpack/msgpack.dart";
-import "package:crypto/crypto.dart";
+import "package:msgpack_dart/msgpack_dart.dart";
 
 part "types.dart";
 part "cache.dart";
